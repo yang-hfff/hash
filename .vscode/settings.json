@@ -1,0 +1,21 @@
+{
+    // "editor.formatOnSave": true,
+    "terminal.integrated.profiles.windows": {
+        "Git Bash": {
+            "path": [
+                "D:/Program Files/Git/bin/bash.exe"
+            ],
+            "args": []
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.associations": {
+        "*.lua": "lua",
+        "stdio.h": "c",
+        "wk.h": "c",
+        "lib.h": "c",
+        "hashmap.h": "c",
+        "hash.h": "c",
+        "stdlib.h": "c"
+    }
+}
